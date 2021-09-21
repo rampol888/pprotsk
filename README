@@ -1,7 +1,10 @@
 # pprotsk
 minimalistic local Kubernetes environment
 
-The following tools are expected to be used for completing this challenge:
+Note: Currently a busy schedule with prod migratiom is going on, i have a very limited time to complete this task.  I can do even much better, but please find my solution below.
+
+
+The following tools are  used for completing this challenge:
 Container management: Kubernetes.
 Cluster management: Minikube.
 Deployable artifact: Docker image created from the provided Dockerfile.
