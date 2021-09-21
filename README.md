@@ -1,6 +1,15 @@
 # pprotsk
 minimalistic local Kubernetes environment
 
+The following tools are expected to be used for completing this challenge:
+Container management: Kubernetes.
+Cluster management: Minikube.
+Deployable artifact: Docker image created from the provided Dockerfile.
+Deployment method: Kubernetes YAML files / HELM.
+Infrastructure environment templating: HELM / Kustomize / jsonnet.
+Scripting Bash shell scrits is used
+
+
 #Deploy Node.js app
 
 server.js file : create a simple web server listening on port 8080
